@@ -113,3 +113,37 @@ nav{
     display: flex;
     justify-content: space-around;
 }
+
+.redes_container{
+
+    font-size: 4.5rem;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 1em;
+    background-color: #67BAFF;
+
+}
+
+.redes_container ul li{
+display: inline-block;
+margin: 0 1px;
+margin: 30px;
+height: 30px;
+text-align: center;
+}
+
+.redes_container ul li a{
+color: #fff;
+}
+
+.Telefono{
+
+    font-size: 4.5rem;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: #67BAFF;
+    color: #fff;
+
+}
