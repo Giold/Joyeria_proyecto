@@ -12,21 +12,25 @@ nav{
     justify-content: space-around;
     align-items: center;
     min-height: 8vh;
-    background-color: rgb(226, 226, 226);
+    background-color: rgb(222, 224, 230);
+    
 
 }
 .logo{
     
     list-style: none;
+    top: 1em;
     
 }
 .logo a{
     text-decoration: none 
 }
 .logo img{
-    height: 100px;
-    width: 100px;
-    transform: translate(0%, -35%);
+    height: 200px;
+    width: 200px;
+    transform: translate(0%, -38%);
+    padding-top: 1em;
+    
 
 }
 
